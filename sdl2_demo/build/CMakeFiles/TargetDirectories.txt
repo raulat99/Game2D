@@ -1,0 +1,3 @@
+/home/raulat/Documents/sdl2_demo/build/CMakeFiles/rebuild_cache.dir
+/home/raulat/Documents/sdl2_demo/build/CMakeFiles/edit_cache.dir
+/home/raulat/Documents/sdl2_demo/build/CMakeFiles/sdl2_demo.dir
